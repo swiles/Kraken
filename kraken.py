@@ -13,7 +13,33 @@ def new_game():
     global kraken_health
     kraken_health=8
     print
-    print "New Game Started"
+    print 
+    print
+    print 
+
+    print "new game started"
+    print
+    print
+    print 
+    print
+    print 
+    print
+    print
+    print
+    print
+    print 
+    print
+    print 
+    print
+    print
+    print
+    print
+    print 
+    print
+    print 
+    print
+    print
+    print
         
 new_game()        
         
